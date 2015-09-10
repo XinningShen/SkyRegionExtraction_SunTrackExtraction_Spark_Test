@@ -2,10 +2,8 @@
 
 ## Environment Set Up 
 1. Spark set up:
-
- [See the Official Documentation](http://spark.apache.org/docs/latest/)
- 
- [Set up step](http://genomegeek.blogspot.com/2014/11/how-to-install-apache-spark-on-mac-os-x.html)
+	- [See the Official Documentation](http://spark.apache.org/docs/latest/)
+	- [Set up step](http://genomegeek.blogspot.com/2014/11/how-to-install-apache-spark-on-mac-os-x.html)
 
 2. Other configuration:
 
