@@ -22,6 +22,7 @@
 3. Submit application to Spark and Run Spark
 
 ## Notes
-1. This is just a test application that runs in local machine.
-2. Set up 4 cores to simulate 4 parallel threads running application.
-3. Does not save RESULT of SKY_REGION_MASK and SUN_TRACK_COEFFICIENT to disk.
+1. The test application deploy spark in Standalone Mode
+2. This is just a test application that runs in local machine.
+3. Set up 4 cores to simulate 4 parallel threads running application.
+4. Does not save RESULT of SKY_REGION_MASK and SUN_TRACK_COEFFICIENT to disk.
