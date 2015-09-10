@@ -14,7 +14,8 @@ MainProgram=Main.py
 
 # device_id=04E6768323EE
 # device_id=04E676832123
-device_id=04E6768320AD
+# device_id=04E6768320AD
+device_id=04E67693D76A
 
 date1=`date -v-3d +%F`	# Three days ago
 date2=`date -v-2d +%F`	# Two days ago
@@ -24,9 +25,9 @@ date_array=($date1 $date2 $date3)
 time_start=09:00AM
 time_end=07:00PM
 
-time_start_hr=04
+time_start_hr=09
 time_start_min=00
-time_end_hr=21
+time_end_hr=19
 time_end_min=00
 
 count=0
