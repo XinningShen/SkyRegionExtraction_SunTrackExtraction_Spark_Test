@@ -149,7 +149,10 @@ if __name__ == "__main__":
     print (centroid_list)
 
     # Generate Sun Track
-    theta, coeffs = ImageProcess.generalParabola(centroid_list)
+    try:
+        theta, coeffs = ImageProcess.generalParabola(centroid_list)
 
-    print ("theta = ", theta)
-    print ("coeffs = ", coeffs)
+        print ("theta = ", theta)
+        print ("coeffs = ", coeffs)
+    except:
+        print ("Not enough sample to generate sun track")
