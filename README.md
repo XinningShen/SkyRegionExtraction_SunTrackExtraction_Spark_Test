@@ -9,7 +9,7 @@
 
 2. Other configuration:
 
- python 2.6+, OpenCV 2.4.11, 
+ python 2.6+, OpenCV 2.4.11, NumPy, Pyplot, SciPy.
 
 ## Run Spark Test
 1. Clone to local disk
